@@ -9,4 +9,4 @@ layout: home
 ---
 
 # Who we are
-###### We are a group of like-minded neighbors passionate about building our community through service and common interest.
+We are a group of like-minded neighbors passionate about building our community through service and common interest.
