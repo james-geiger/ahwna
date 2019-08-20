@@ -1,5 +1,6 @@
 ---
-page.title: Blogging Like a Hacker
+layout: page
+title: Blogging Like a Hacker
 ---
 
 # This is the Main Page
