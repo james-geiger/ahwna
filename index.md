@@ -6,8 +6,8 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 #
 layout: home
-tagline: We are a group of like-minded neighbors passionate about building our community through service and common interest.
+tagline: We are a group of like-minded neighbors passionate about building our community through service and common interest
+
 ---
 
-# A Top Level Heading
 Here is some additional content.
