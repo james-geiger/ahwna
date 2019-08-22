@@ -1,0 +1,12 @@
+<h2>Current Leadership</h2>
+<p>If you're interested in becoming involved as a member of the leadership team, please <a href="mailto:hello@ahwna.org">contact a current member</a> who would be happy to provide you additional information!</p>
+<div class="person-container">
+  {% for person in site.leadership %}
+    <div class="person-item">
+      <img src="{{ person.photo }}" />
+      <h1>{{ person.name }}</h1>
+      <h2>{{ person.position }}</h2>
+      <p>{{ person.content | markdownify }}</p>
+    </div>
+  {% endfor %}
+</div>

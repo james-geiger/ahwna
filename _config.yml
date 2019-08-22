@@ -1,12 +1,14 @@
 title: Aksarben Heights & Westbrook Neighborhood Association
-author: James Geiger
-email: james@lavande.in
+email: hello@ahwna.org
 description: > # this means to ignore newlines until "show_excerpts:"
   A group of neighbors in the Aksarben Heights and Westbrook
   neighborhoods in South Central Omaha, Nebraska
-  dedicated to community, service, and common interest.
+  passionate about building our community through service, and local advocacy.
 
 show_excerpts: false # set to true to show excerpts on the homepage
+
+collections:
+  - leadership
 
 # Minima date format
 # refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this

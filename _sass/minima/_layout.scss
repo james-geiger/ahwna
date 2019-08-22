@@ -199,8 +199,21 @@
   @include relative-font-size(2);
 }
 
+.page-tagline {
+  margin-bottom: 2rem;
+  b {
+    color: $brand-color;
+  }
+}
+
 .post-list-heading {
   @include relative-font-size(1.75);
+}
+
+.home {
+  .post-list-heading {
+    margin-top: 2rem;
+  }
 }
 
 .post-list {
