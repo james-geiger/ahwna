@@ -185,7 +185,21 @@
   }
 }
 
+@import url("//cdn-images.mailchimp.com/embedcode/horizontal-slim-10_7.css");
 
+
+#mc_embed_signup {
+  background:#fff;
+  clear:left;
+  float: left;
+  padding-left: $spacing-unit / 2;
+  form {
+    padding: 5px 0 5px 0;
+    input {
+      width: initial !important;
+    }
+  }
+}
 
 /**
  * Page content
