@@ -14,8 +14,8 @@ The Aksarben Heights & Westbrook neighborhoods are a vibrant and diverse communi
 
 Join one of our meetings or attend a neighborhood event to learn more about our organization and to get to know some of your neighbors better!
 
-### Meetings
-Meetings occur the first Tuesday of every month.
+## Meetings
+Meetings occur the first Thursday of every month.
 
-### Our Neighborhoods
+## Our Neighborhoods
 ![A photo illustration of the neighborhood location.](/assets/img/service-area.png)
